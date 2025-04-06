@@ -305,6 +305,35 @@
         }
       ],
       "blocked": false
+    },
+    {
+      "id": "7",
+      "name": "Soumya",
+      "email": "soumya@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "cart": [],
+      "orders": [
+        {
+          "items": [
+            {
+              "id": "1",
+              "name": "Elle Decor Roux Arm Chair",
+              "image": "https://ii1.pepperfry.com/media/catalog/product/h/e/494x544/herrin-fabric-armchair-in-ivory-colour-herrin-fabric-armchair-in-ivory-colour-hg29n1.jpg",
+              "new_price": 2999,
+              "old_price": 4999,
+              "category": "sofa",
+              "description": "Elegant armchair with soft fabric and sturdy wooden legs.",
+              "status": "active",
+              "quantity": 1
+            }
+          ],
+          "total": 2999,
+          "date": "4/5/2025, 7:26:32 PM",
+          "paymentMethod": "Cash on Delivery",
+          "status": "Confirmed"
+        }
+      ]
     }
   ],
   "products": [
