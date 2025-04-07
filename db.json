@@ -334,6 +334,35 @@
           "status": "Confirmed"
         }
       ]
+    },
+    {
+      "id": "8",
+      "name": "Nisa ",
+      "email": "nisa@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "cart": [],
+      "orders": [
+        {
+          "items": [
+            {
+              "id": "2",
+              "name": "Velvet Midnight Sofa",
+              "image": "https://www.midnightvelvet.com/dw/image/v2/BBVM_PRD/on/demandware.static/-/Sites-colony-master-catalog/default/dwb78cf851/DIS/SP24_DU_6792078_155048_WP001.png?sw=260&sh=260&sm=fit",
+              "new_price": 57999,
+              "old_price": 69990,
+              "category": "sofa",
+              "description": "Luxurious velvet sofa with deep seating for extra comfort.",
+              "status": "active",
+              "quantity": 1
+            }
+          ],
+          "total": 57999,
+          "date": "4/7/2025, 9:29:48 AM",
+          "paymentMethod": "Cash on Delivery",
+          "status": "Confirmed"
+        }
+      ]
     }
   ],
   "products": [
